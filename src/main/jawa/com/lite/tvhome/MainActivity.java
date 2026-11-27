@@ -1,5 +1,4 @@
 package com.lite.tvhome;
-
 import android.app.Activity;
 import android.content.Intent;
 import android.content.pm.PackageManager;
